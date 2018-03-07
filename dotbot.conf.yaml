@@ -1,0 +1,8 @@
+- default:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.dotfiles: ~/dev/dotfiles
